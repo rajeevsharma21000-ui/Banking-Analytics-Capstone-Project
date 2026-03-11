@@ -53,7 +53,7 @@ This project demonstrates end-to-end data analytics including database design, d
 ## Power BI Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Screenshots/1_Executive_Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 ### Customers Dashboard
 ![Customers Dashboard](Screenshots/2_Customers_Dashboard.png)
