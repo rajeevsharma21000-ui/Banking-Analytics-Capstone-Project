@@ -56,19 +56,19 @@ This project demonstrates end-to-end data analytics including database design, d
 ![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 ### Customers Dashboard
-![Customers Dashboard](Screenshots/2_Customers_Dashboard.png)
+![Customers Dashboard](Screenshots/Customers_Dashboard.png)
 
 ### Account Dashboard
-![Account Dashboard](Screenshots/3_Account_Dashboard.png)
+![Account Dashboard](Screenshots/Account_Dashboard.png)
 
 ### Transaction Dashboard
-![Transaction Dashboard](Screenshots/4_Transaction_Dashboard.png)
+![Transaction Dashboard](Screenshots/Transaction_Dashboard.png)
 
 ### Loan Dashboard
-![Loan Dashboard](Screenshots/5_Loan_Dashboard.png)
+![Loan Dashboard](Screenshots/Loan_Dashboard.png)
 
 ### Cards Dashboard
-![Cards Dashboard](Screenshots/6_Cards_Dashboard.png)
+![Cards Dashboard](Screenshots/Cards_Dashboard.png)
 
 ### Complaints Dashboard
 ![Complaints Dashboard](Screenshots/7_Complaints_Dashboard.png)
