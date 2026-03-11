@@ -1,0 +1,740 @@
+complaint_id,customer_id,complaint_date,service_type,resolution_status
+0,2796,2024-01-01,Mobile Banking,Resolved
+749,2403,2024-01-01,Loan,Closed
+599,1789,2024-01-01,Mobile Banking,Pending
+582,2039,2024-01-01,Atm,Closed
+444,1489,2024-01-01,Unknown,Resolved
+607,1703,2024-01-01,Mobile Banking,Pending
+162,1889,2024-01-01,Staff Behavior,Resolved
+301,2417,2024-01-01,Mobile Banking,Resolved
+304,2320,2024-01-01,Mobile Banking,Pending
+70,1739,2024-01-01,Loan,Resolved
+624,2200,2024-01-01,Loan,Unknown
+621,1881,2024-01-01,Staff Behavior,Closed
+54,2101,2024-01-01,Atm,Pending
+62,1291,2024-01-01,Loan,Pending
+548,2520,2024-01-01,Loan,Pending
+407,2871,2024-01-01,Loan,Unknown
+736,1231,2024-01-01,Unknown,Closed
+161,2941,2024-01-01,Unknown,Closed
+197,1211,2024-01-01,Staff Behavior,Closed
+509,1869,2024-01-01,Atm,Unknown
+416,1378,2024-01-01,Staff Behavior,Resolved
+638,2587,2024-01-01,Loan,Pending
+554,1163,2024-01-01,Loan,Resolved
+210,1503,2024-01-01,Atm,Unknown
+1,0,2024-01-01,Staff Behavior,Closed
+572,2748,2024-01-01,Unknown,Pending
+93,2988,2024-01-01,Atm,Resolved
+714,1841,2024-01-01,Mobile Banking,Pending
+568,1179,2024-01-01,Loan,Closed
+176,1216,2024-01-01,Staff Behavior,Closed
+596,1490,2024-01-01,Loan,Unknown
+341,1925,2024-01-01,Atm,Closed
+27,1412,2024-01-01,Staff Behavior,Closed
+795,2575,2024-01-01,Loan,Pending
+475,1546,2024-01-01,Atm,Resolved
+604,2557,2024-01-01,Mobile Banking,Unknown
+681,1167,2024-01-01,Atm,Unknown
+769,1272,2024-01-01,Mobile Banking,Closed
+323,2713,2024-01-01,Staff Behavior,Resolved
+530,2838,2024-01-01,Loan,Pending
+109,1249,2024-01-01,Unknown,Closed
+49,1331,2024-01-01,Staff Behavior,Resolved
+51,1537,2024-01-01,Loan,Pending
+86,1139,2024-01-01,Mobile Banking,Pending
+334,2846,2024-01-01,Loan,Resolved
+63,2727,2024-01-01,Mobile Banking,Resolved
+85,0,2024-01-01,Staff Behavior,Pending
+551,1952,2024-01-01,Staff Behavior,Pending
+586,1427,2024-01-01,Loan,Resolved
+787,1468,2024-01-01,Staff Behavior,Resolved
+258,1528,2024-01-01,Atm,Closed
+695,1256,2024-01-01,Mobile Banking,Resolved
+264,2632,2024-01-01,Staff Behavior,Unknown
+746,2380,2024-01-01,Atm,Resolved
+520,2275,2024-01-01,Atm,Pending
+346,1324,2024-01-01,Loan,Pending
+224,2580,2024-01-01,Atm,Pending
+724,0,2024-01-01,Staff Behavior,Resolved
+124,1842,2024-01-01,Atm,Unknown
+626,2910,2024-01-01,Atm,Unknown
+434,1441,2024-01-01,Staff Behavior,Closed
+668,1889,2024-01-01,Unknown,Closed
+686,1510,2024-01-01,Mobile Banking,Closed
+453,1531,2024-01-01,Loan,Pending
+129,1946,2024-01-01,Mobile Banking,Pending
+767,1454,2024-01-01,Staff Behavior,Closed
+470,1133,2024-01-01,Staff Behavior,Resolved
+103,2263,2024-01-01,Staff Behavior,Pending
+231,0,2024-01-01,Loan,Resolved
+794,1933,2024-01-01,Atm,Closed
+779,1383,2024-01-01,Staff Behavior,Closed
+88,2469,2024-01-01,Mobile Banking,Unknown
+208,1188,2024-01-01,Atm,Resolved
+319,1283,2024-01-01,Atm,Pending
+245,2926,2024-01-02,Staff Behavior,Pending
+330,2288,2024-01-02,Loan,Pending
+706,0,2024-01-03,Loan,Pending
+687,1320,2024-01-03,Mobile Banking,Closed
+738,2753,2024-01-07,Loan,Closed
+20,1967,2024-01-10,Loan,Pending
+106,1200,2024-01-11,Mobile Banking,Unknown
+392,1554,2024-01-11,Staff Behavior,Pending
+640,2033,2024-01-12,Atm,Closed
+517,1108,2024-01-14,Atm,Closed
+157,2541,2024-01-15,Loan,Resolved
+316,1205,2024-01-16,Loan,Resolved
+45,2620,2024-01-17,Staff Behavior,Closed
+313,2973,2024-01-18,Staff Behavior,Pending
+428,1426,2024-01-20,Staff Behavior,Closed
+619,1967,2024-01-20,Unknown,Pending
+778,2286,2024-01-21,Mobile Banking,Resolved
+481,2908,2024-01-21,Atm,Unknown
+141,1920,2024-01-21,Staff Behavior,Pending
+696,1657,2024-01-21,Unknown,Resolved
+782,1078,2024-01-22,Atm,Pending
+486,1565,2024-01-22,Loan,Closed
+7,2267,2024-01-23,Staff Behavior,Resolved
+325,1503,2024-01-23,Unknown,Resolved
+160,1425,2024-01-24,Staff Behavior,Resolved
+491,2561,2024-01-24,Unknown,Closed
+107,2900,2024-02-01,Atm,Pending
+285,2317,2024-02-02,Loan,Pending
+269,1573,2024-02-03,Unknown,Pending
+439,2263,2024-02-05,Atm,Pending
+424,2039,2024-02-05,Staff Behavior,Resolved
+747,2164,2024-02-06,Loan,Unknown
+577,2209,2024-02-06,Mobile Banking,Resolved
+788,1435,2024-02-06,Atm,Closed
+756,1046,2024-02-07,Loan,Closed
+240,2076,2024-02-08,Unknown,Resolved
+737,2106,2024-02-10,Staff Behavior,Unknown
+629,1360,2024-02-10,Loan,Closed
+796,2377,2024-02-12,Mobile Banking,Closed
+69,1321,2024-02-13,Loan,Resolved
+573,2943,2024-02-13,Mobile Banking,Resolved
+400,0,2024-02-13,Staff Behavior,Unknown
+243,1612,2024-02-13,Mobile Banking,Pending
+490,2204,2024-02-14,Staff Behavior,Resolved
+365,1938,2024-02-15,Atm,Pending
+81,2097,2024-02-17,Atm,Pending
+259,2962,2024-02-19,Loan,Pending
+438,2299,2024-02-19,Atm,Closed
+487,2822,2024-02-19,Loan,Closed
+15,2512,2024-02-19,Atm,Pending
+665,0,2024-02-20,Loan,Pending
+479,2250,2024-02-23,Staff Behavior,Resolved
+594,1849,2024-02-27,Staff Behavior,Closed
+127,1951,2024-02-28,Atm,Pending
+26,1094,2024-03-02,Staff Behavior,Pending
+468,2205,2024-03-03,Mobile Banking,Pending
+754,1638,2024-03-04,Mobile Banking,Pending
+293,2610,2024-03-04,Staff Behavior,Resolved
+370,0,2024-03-05,Mobile Banking,Closed
+610,1455,2024-03-05,Mobile Banking,Pending
+202,1631,2024-03-07,Loan,Pending
+173,1781,2024-03-07,Loan,Closed
+713,2089,2024-03-07,Loan,Resolved
+505,1980,2024-03-09,Loan,Resolved
+77,2812,2024-03-09,Mobile Banking,Closed
+386,0,2024-03-10,Loan,Resolved
+74,0,2024-03-14,Loan,Closed
+458,2265,2024-03-15,Atm,Closed
+705,1412,2024-03-17,Mobile Banking,Resolved
+556,1911,2024-03-18,Loan,Pending
+383,2052,2024-03-20,Mobile Banking,Closed
+194,1318,2024-03-24,Mobile Banking,Closed
+31,1338,2024-03-24,Staff Behavior,Pending
+35,1117,2024-03-29,Mobile Banking,Unknown
+164,1171,2024-03-31,Atm,Pending
+393,1866,2024-04-01,Staff Behavior,Closed
+169,2151,2024-04-02,Atm,Resolved
+623,2246,2024-04-02,Loan,Pending
+750,1078,2024-04-05,Mobile Banking,Closed
+447,1840,2024-04-06,Loan,Pending
+715,2718,2024-04-10,Atm,Closed
+192,1772,2024-04-11,Staff Behavior,Pending
+540,2410,2024-04-14,Atm,Pending
+87,1075,2024-04-14,Staff Behavior,Closed
+17,2870,2024-04-14,Mobile Banking,Pending
+390,1969,2024-04-16,Staff Behavior,Resolved
+446,2471,2024-04-16,Loan,Resolved
+142,1408,2024-04-17,Unknown,Resolved
+296,2279,2024-04-19,Atm,Pending
+153,1658,2024-04-19,Loan,Closed
+215,2348,2024-04-21,Loan,Pending
+741,2627,2024-04-25,Atm,Resolved
+483,1701,2024-04-25,Atm,Resolved
+348,0,2024-04-26,Atm,Resolved
+329,1563,2024-04-28,Staff Behavior,Resolved
+318,1304,2024-04-28,Staff Behavior,Resolved
+282,1824,2024-04-30,Staff Behavior,Pending
+768,1566,2024-04-30,Atm,Unknown
+719,1636,2024-05-01,Loan,Closed
+563,2616,2024-05-01,Staff Behavior,Unknown
+174,2768,2024-05-03,Atm,Closed
+139,2994,2024-05-03,Mobile Banking,Pending
+255,1838,2024-05-05,Loan,Closed
+147,1306,2024-05-05,Loan,Closed
+721,2974,2024-05-06,Staff Behavior,Resolved
+744,2226,2024-05-06,Loan,Resolved
+436,2462,2024-05-13,Atm,Closed
+130,1265,2024-05-13,Staff Behavior,Closed
+41,2334,2024-05-14,Loan,Closed
+785,1537,2024-05-14,Atm,Pending
+335,2585,2024-05-14,Loan,Pending
+357,1645,2024-05-14,Mobile Banking,Closed
+720,2230,2024-05-15,Mobile Banking,Pending
+742,1566,2024-05-17,Atm,Unknown
+271,0,2024-05-19,Loan,Pending
+637,1513,2024-05-19,Unknown,Resolved
+688,1457,2024-05-20,Mobile Banking,Resolved
+214,1247,2024-05-22,Atm,Closed
+135,2836,2024-05-24,Atm,Resolved
+730,1696,2024-05-25,Mobile Banking,Resolved
+492,1306,2024-05-26,Atm,Pending
+616,0,2024-05-27,Loan,Pending
+349,2547,2024-05-28,Loan,Pending
+251,2210,2024-05-29,Atm,Resolved
+496,1114,2024-05-29,Staff Behavior,Pending
+384,1428,2024-05-30,Atm,Unknown
+56,2269,2024-05-31,Staff Behavior,Resolved
+441,2400,2024-06-01,Loan,Pending
+166,2141,2024-06-01,Loan,Pending
+350,2581,2024-06-02,Atm,Closed
+663,1156,2024-06-02,Staff Behavior,Closed
+511,1983,2024-06-02,Loan,Resolved
+266,1559,2024-06-03,Staff Behavior,Closed
+248,2168,2024-06-05,Loan,Unknown
+388,0,2024-06-07,Atm,Pending
+654,1320,2024-06-07,Atm,Unknown
+151,2177,2024-06-08,Mobile Banking,Resolved
+525,1254,2024-06-09,Mobile Banking,Resolved
+122,1403,2024-06-09,Atm,Pending
+185,1319,2024-06-10,Mobile Banking,Pending
+125,1201,2024-06-11,Mobile Banking,Pending
+457,0,2024-06-14,Atm,Pending
+73,2241,2024-06-14,Atm,Pending
+382,1836,2024-06-14,Unknown,Pending
+420,2357,2024-06-16,Mobile Banking,Pending
+253,1931,2024-06-17,Staff Behavior,Unknown
+661,2675,2024-06-17,Loan,Closed
+501,2892,2024-06-21,Loan,Resolved
+526,2515,2024-06-22,Staff Behavior,Pending
+612,2849,2024-06-23,Loan,Closed
+628,1009,2024-06-23,Staff Behavior,Pending
+220,1954,2024-06-24,Staff Behavior,Resolved
+697,2802,2024-06-24,Staff Behavior,Closed
+234,2077,2024-06-25,Staff Behavior,Pending
+59,2530,2024-06-25,Staff Behavior,Closed
+699,1744,2024-06-27,Atm,Closed
+758,1295,2024-06-27,Loan,Resolved
+469,2857,2024-06-30,Unknown,Pending
+503,1965,2024-07-02,Atm,Closed
+538,1020,2024-07-02,Staff Behavior,Closed
+184,2753,2024-07-03,Unknown,Closed
+633,2024,2024-07-04,Loan,Closed
+710,1349,2024-07-05,Atm,Closed
+523,2417,2024-07-07,Mobile Banking,Closed
+528,2109,2024-07-08,Loan,Pending
+177,1193,2024-07-09,Staff Behavior,Pending
+232,1162,2024-07-13,Staff Behavior,Resolved
+445,2621,2024-07-15,Mobile Banking,Pending
+772,1208,2024-07-15,Atm,Resolved
+211,1170,2024-07-18,Mobile Banking,Closed
+100,1746,2024-07-19,Staff Behavior,Pending
+191,2124,2024-07-21,Mobile Banking,Unknown
+669,2244,2024-07-22,Staff Behavior,Closed
+611,1223,2024-07-24,Staff Behavior,Closed
+213,1563,2024-07-24,Loan,Closed
+33,2869,2024-07-24,Loan,Resolved
+199,1878,2024-07-25,Mobile Banking,Pending
+727,1017,2024-07-28,Staff Behavior,Closed
+617,1113,2024-07-29,Unknown,Closed
+229,1670,2024-07-29,Staff Behavior,Closed
+47,1538,2024-07-30,Mobile Banking,Pending
+338,1478,2024-07-30,Loan,Pending
+287,1773,2024-07-30,Mobile Banking,Resolved
+484,2109,2024-08-02,Staff Behavior,Pending
+542,1856,2024-08-03,Atm,Resolved
+299,2670,2024-08-04,Atm,Resolved
+112,2114,2024-08-05,Loan,Closed
+545,2669,2024-08-09,Loan,Resolved
+429,2257,2024-08-09,Atm,Closed
+561,0,2024-08-10,Loan,Unknown
+552,2480,2024-08-10,Mobile Banking,Pending
+320,1620,2024-08-11,Mobile Banking,Closed
+281,1976,2024-08-11,Mobile Banking,Resolved
+704,2816,2024-08-13,Mobile Banking,Pending
+580,1270,2024-08-14,Mobile Banking,Closed
+504,1944,2024-08-14,Staff Behavior,Resolved
+126,2329,2024-08-15,Mobile Banking,Resolved
+524,2945,2024-08-15,Atm,Closed
+716,0,2024-08-15,Atm,Pending
+435,1713,2024-08-15,Mobile Banking,Pending
+205,1691,2024-08-15,Atm,Pending
+60,2034,2024-08-16,Mobile Banking,Pending
+96,0,2024-08-16,Mobile Banking,Unknown
+674,0,2024-08-17,Loan,Pending
+43,0,2024-08-17,Atm,Closed
+203,1795,2024-08-18,Staff Behavior,Unknown
+615,2768,2024-08-19,Staff Behavior,Closed
+89,2414,2024-08-21,Loan,Closed
+529,2020,2024-08-23,Loan,Resolved
+627,2599,2024-08-25,Mobile Banking,Pending
+132,2446,2024-08-25,Staff Behavior,Pending
+452,1438,2024-08-25,Mobile Banking,Resolved
+497,2261,2024-08-25,Unknown,Resolved
+14,2719,2024-08-26,Staff Behavior,Closed
+403,1610,2024-08-27,Unknown,Resolved
+564,1441,2024-08-27,Staff Behavior,Resolved
+95,1852,2024-08-28,Mobile Banking,Resolved
+233,2833,2024-08-30,Atm,Pending
+514,0,2024-08-31,Loan,Closed
+239,1772,2024-09-03,Staff Behavior,Pending
+643,1872,2024-09-04,Staff Behavior,Pending
+148,2215,2024-09-04,Mobile Banking,Pending
+101,1057,2024-09-05,Staff Behavior,Closed
+671,1350,2024-09-06,Atm,Pending
+28,2597,2024-09-06,Atm,Closed
+559,2586,2024-09-06,Mobile Banking,Resolved
+32,2438,2024-09-08,Unknown,Pending
+138,2335,2024-09-08,Loan,Pending
+286,2281,2024-09-09,Atm,Resolved
+740,2659,2024-09-10,Loan,Closed
+662,2945,2024-09-11,Atm,Resolved
+417,2714,2024-09-12,Mobile Banking,Resolved
+190,2430,2024-09-13,Loan,Resolved
+387,1527,2024-09-14,Staff Behavior,Resolved
+380,2355,2024-09-16,Mobile Banking,Resolved
+708,2702,2024-09-20,Unknown,Pending
+249,2953,2024-09-21,Atm,Pending
+694,1178,2024-09-22,Mobile Banking,Resolved
+246,2762,2024-09-23,Staff Behavior,Closed
+105,1052,2024-09-24,Mobile Banking,Resolved
+84,1595,2024-09-24,Loan,Closed
+690,1135,2024-09-24,Loan,Pending
+288,1861,2024-09-25,Atm,Resolved
+219,2995,2024-09-27,Unknown,Pending
+369,2013,2024-09-28,Loan,Resolved
+557,1366,2024-09-30,Staff Behavior,Resolved
+649,2597,2024-10-02,Atm,Closed
+276,0,2024-10-05,Unknown,Closed
+237,1515,2024-10-06,Loan,Closed
+473,1525,2024-10-06,Atm,Closed
+630,1861,2024-10-07,Loan,Resolved
+729,1338,2024-10-09,Atm,Unknown
+260,0,2024-10-09,Staff Behavior,Resolved
+159,1918,2024-10-10,Staff Behavior,Unknown
+461,2707,2024-10-11,Atm,Pending
+792,2424,2024-10-12,Loan,Resolved
+118,1308,2024-10-14,Staff Behavior,Closed
+182,2598,2024-10-16,Mobile Banking,Closed
+618,1518,2024-10-17,Staff Behavior,Resolved
+498,2859,2024-10-18,Atm,Resolved
+170,1372,2024-10-19,Loan,Resolved
+133,1640,2024-10-19,Mobile Banking,Closed
+775,0,2024-10-20,Mobile Banking,Closed
+579,2534,2024-10-21,Staff Behavior,Pending
+314,2796,2024-10-22,Loan,Unknown
+274,1063,2024-10-25,Atm,Pending
+72,1207,2024-10-28,Loan,Pending
+183,2635,2024-10-28,Atm,Resolved
+222,2038,2024-10-28,Atm,Pending
+377,0,2024-10-29,Mobile Banking,Pending
+94,2714,2024-11-03,Mobile Banking,Pending
+352,2213,2024-11-05,Staff Behavior,Closed
+588,1125,2024-11-05,Loan,Pending
+345,1579,2024-11-06,Unknown,Resolved
+463,2798,2024-11-07,Atm,Pending
+757,1419,2024-11-09,Atm,Pending
+152,1417,2024-11-11,Mobile Banking,Pending
+241,1789,2024-11-11,Staff Behavior,Resolved
+198,1130,2024-11-12,Mobile Banking,Pending
+247,1484,2024-11-13,Unknown,Pending
+601,1888,2024-11-14,Mobile Banking,Resolved
+90,1074,2024-11-14,Staff Behavior,Resolved
+602,2120,2024-11-15,Atm,Unknown
+290,2721,2024-11-15,Staff Behavior,Closed
+641,0,2024-11-17,Loan,Unknown
+725,2247,2024-11-19,Unknown,Pending
+689,2784,2024-11-19,Atm,Closed
+235,1874,2024-11-23,Staff Behavior,Resolved
+238,2025,2024-11-23,Mobile Banking,Resolved
+682,1004,2024-11-25,Staff Behavior,Unknown
+451,1383,2024-11-25,Loan,Pending
+499,1961,2024-11-26,Atm,Pending
+546,2996,2024-11-26,Mobile Banking,Resolved
+275,2522,2024-11-28,Loan,Resolved
+512,1259,2024-11-28,Unknown,Closed
+75,2057,2024-11-29,Loan,Resolved
+625,1486,2024-11-29,Staff Behavior,Resolved
+780,1050,2024-11-30,Staff Behavior,Unknown
+254,2603,2024-12-03,Staff Behavior,Pending
+44,2294,2024-12-03,Atm,Closed
+327,2116,2024-12-04,Atm,Resolved
+353,1842,2024-12-06,Loan,Unknown
+471,1533,2024-12-09,Mobile Banking,Pending
+11,1508,2024-12-10,Atm,Pending
+660,2238,2024-12-11,Staff Behavior,Closed
+659,1099,2024-12-13,Atm,Closed
+472,2962,2024-12-13,Loan,Pending
+421,1305,2024-12-14,Loan,Resolved
+218,1649,2024-12-15,Unknown,Resolved
+145,2404,2024-12-15,Loan,Pending
+482,1852,2024-12-17,Atm,Resolved
+187,2417,2024-12-18,Atm,Resolved
+642,2427,2024-12-19,Unknown,Closed
+91,2450,2024-12-19,Mobile Banking,Pending
+488,2706,2024-12-22,Loan,Pending
+519,1101,2024-12-23,Loan,Pending
+110,0,2024-12-27,Atm,Unknown
+533,2120,2024-12-29,Staff Behavior,Unknown
+459,2676,2024-12-29,Staff Behavior,Closed
+115,1359,2025-01-03,Atm,Pending
+292,1179,2025-01-04,Staff Behavior,Closed
+442,1963,2025-01-04,Atm,Resolved
+426,2564,2025-01-05,Mobile Banking,Unknown
+632,1665,2025-01-05,Loan,Pending
+462,2241,2025-01-06,Staff Behavior,Pending
+532,1052,2025-01-06,Loan,Resolved
+534,1454,2025-01-06,Mobile Banking,Resolved
+495,2682,2025-01-08,Mobile Banking,Closed
+653,2759,2025-01-08,Mobile Banking,Closed
+652,1213,2025-01-09,Atm,Unknown
+562,1836,2025-01-10,Staff Behavior,Unknown
+773,2079,2025-01-10,Staff Behavior,Pending
+117,2901,2025-01-12,Staff Behavior,Pending
+18,1896,2025-01-12,Atm,Closed
+175,1251,2025-01-13,Loan,Closed
+116,2390,2025-01-13,Staff Behavior,Closed
+680,2504,2025-01-15,Mobile Banking,Closed
+134,1946,2025-01-16,Staff Behavior,Resolved
+303,1568,2025-01-17,Mobile Banking,Closed
+793,2740,2025-01-17,Unknown,Unknown
+598,1693,2025-01-18,Loan,Resolved
+40,1601,2025-01-18,Mobile Banking,Pending
+217,1990,2025-01-21,Staff Behavior,Pending
+478,1896,2025-01-23,Mobile Banking,Resolved
+651,2493,2025-01-24,Unknown,Closed
+82,0,2025-01-24,Mobile Banking,Resolved
+333,1940,2025-01-25,Mobile Banking,Closed
+270,1609,2025-01-25,Atm,Closed
+223,2199,2025-01-26,Staff Behavior,Closed
+450,1151,2025-01-26,Mobile Banking,Resolved
+664,1464,2025-01-28,Atm,Closed
+587,1486,2025-01-28,Mobile Banking,Closed
+52,1393,2025-01-29,Loan,Pending
+544,2910,2025-01-30,Mobile Banking,Pending
+776,2937,2025-01-30,Atm,Unknown
+717,2175,2025-01-30,Mobile Banking,Pending
+731,1904,2025-01-31,Atm,Pending
+489,0,2025-01-31,Staff Behavior,Resolved
+394,1399,2025-02-01,Loan,Closed
+342,2967,2025-02-01,Atm,Pending
+108,1270,2025-02-02,Atm,Resolved
+212,2828,2025-02-02,Loan,Closed
+336,2934,2025-02-03,Loan,Closed
+781,2118,2025-02-04,Mobile Banking,Closed
+163,0,2025-02-07,Staff Behavior,Pending
+589,2168,2025-02-07,Loan,Pending
+310,2234,2025-02-08,Atm,Closed
+196,1739,2025-02-10,Mobile Banking,Closed
+99,2601,2025-02-10,Staff Behavior,Unknown
+371,2314,2025-02-12,Staff Behavior,Unknown
+763,1385,2025-02-13,Staff Behavior,Pending
+389,2974,2025-02-13,Atm,Pending
+144,1086,2025-02-14,Unknown,Closed
+278,1667,2025-02-15,Staff Behavior,Closed
+29,1077,2025-02-16,Staff Behavior,Closed
+265,1298,2025-02-17,Mobile Banking,Closed
+366,1383,2025-02-17,Staff Behavior,Pending
+92,2300,2025-02-17,Atm,Unknown
+206,1453,2025-02-18,Loan,Pending
+38,1013,2025-02-19,Loan,Resolved
+179,1897,2025-02-20,Loan,Pending
+385,1244,2025-02-20,Atm,Resolved
+691,1546,2025-02-23,Staff Behavior,Pending
+172,1010,2025-02-24,Mobile Banking,Closed
+10,2439,2025-02-26,Atm,Unknown
+396,2249,2025-02-26,Mobile Banking,Closed
+9,1541,2025-02-26,Staff Behavior,Closed
+8,2424,2025-02-27,Atm,Pending
+449,1093,2025-02-28,Staff Behavior,Closed
+23,0,2025-03-02,Staff Behavior,Closed
+39,2952,2025-03-03,Atm,Unknown
+6,0,2025-03-03,Staff Behavior,Pending
+12,0,2025-03-04,Staff Behavior,Pending
+298,1521,2025-03-04,Staff Behavior,Unknown
+432,1968,2025-03-05,Loan,Unknown
+34,1362,2025-03-05,Mobile Banking,Pending
+67,2508,2025-03-05,Staff Behavior,Resolved
+360,1958,2025-03-07,Atm,Pending
+712,0,2025-03-07,Atm,Pending
+374,2779,2025-03-07,Atm,Pending
+752,1409,2025-03-09,Mobile Banking,Closed
+603,2718,2025-03-13,Mobile Banking,Resolved
+531,1896,2025-03-13,Mobile Banking,Resolved
+351,2701,2025-03-13,Staff Behavior,Pending
+508,1380,2025-03-14,Mobile Banking,Resolved
+565,1136,2025-03-14,Atm,Closed
+55,2129,2025-03-15,Unknown,Closed
+42,2143,2025-03-18,Mobile Banking,Closed
+331,0,2025-03-20,Loan,Closed
+221,2072,2025-03-20,Mobile Banking,Resolved
+423,2098,2025-03-23,Mobile Banking,Pending
+375,2883,2025-03-24,Unknown,Pending
+753,1502,2025-03-24,Loan,Resolved
+155,1189,2025-03-25,Atm,Unknown
+37,2949,2025-03-26,Mobile Banking,Resolved
+13,2881,2025-03-26,Mobile Banking,Pending
+165,2616,2025-03-26,Mobile Banking,Resolved
+672,2436,2025-03-27,Mobile Banking,Closed
+186,1546,2025-03-28,Loan,Pending
+150,2048,2025-03-28,Unknown,Closed
+128,2586,2025-03-28,Loan,Closed
+585,1015,2025-03-29,Atm,Pending
+283,2420,2025-03-29,Loan,Resolved
+539,1947,2025-03-29,Mobile Banking,Closed
+307,2613,2025-03-30,Loan,Pending
+658,2693,2025-03-30,Staff Behavior,Pending
+709,2348,2025-03-31,Unknown,Pending
+379,1847,2025-04-02,Staff Behavior,Pending
+692,0,2025-04-02,Mobile Banking,Closed
+294,1638,2025-04-05,Unknown,Resolved
+399,1456,2025-04-06,Loan,Resolved
+404,1604,2025-04-06,Atm,Resolved
+123,1680,2025-04-06,Staff Behavior,Pending
+584,2682,2025-04-12,Unknown,Resolved
+456,1526,2025-04-13,Loan,Closed
+485,2463,2025-04-14,Loan,Pending
+178,0,2025-04-14,Mobile Banking,Closed
+36,1425,2025-04-15,Atm,Closed
+673,2643,2025-04-16,Atm,Resolved
+65,2583,2025-04-16,Mobile Banking,Unknown
+362,2284,2025-04-19,Atm,Closed
+355,1826,2025-04-19,Staff Behavior,Pending
+376,1134,2025-04-22,Staff Behavior,Pending
+766,2962,2025-04-22,Mobile Banking,Resolved
+448,0,2025-04-23,Loan,Resolved
+61,1883,2025-04-24,Loan,Pending
+576,1024,2025-04-24,Staff Behavior,Pending
+476,1115,2025-04-24,Staff Behavior,Pending
+751,2823,2025-04-24,Mobile Banking,Closed
+764,1029,2025-04-26,Mobile Banking,Resolved
+743,2886,2025-04-26,Mobile Banking,Resolved
+137,2295,2025-04-30,Unknown,Resolved
+411,1166,2025-05-01,Loan,Pending
+635,2879,2025-05-01,Atm,Resolved
+181,1228,2025-05-01,Mobile Banking,Closed
+78,1189,2025-05-02,Staff Behavior,Closed
+226,1069,2025-05-04,Staff Behavior,Pending
+337,1580,2025-05-07,Staff Behavior,Resolved
+791,2060,2025-05-09,Atm,Pending
+443,2589,2025-05-09,Staff Behavior,Closed
+786,2709,2025-05-12,Atm,Pending
+425,1709,2025-05-12,Loan,Resolved
+648,2551,2025-05-13,Unknown,Closed
+324,1582,2025-05-14,Staff Behavior,Resolved
+760,0,2025-05-15,Loan,Unknown
+570,2547,2025-05-15,Atm,Closed
+68,1131,2025-05-16,Atm,Resolved
+644,1450,2025-05-16,Staff Behavior,Resolved
+518,2135,2025-05-17,Atm,Resolved
+527,0,2025-05-17,Atm,Resolved
+516,1343,2025-05-18,Unknown,Pending
+683,1630,2025-05-22,Staff Behavior,Resolved
+799,1026,2025-05-22,Mobile Banking,Closed
+216,1530,2025-05-23,Atm,Closed
+761,1973,2025-05-23,Staff Behavior,Resolved
+402,2099,2025-05-24,Unknown,Pending
+413,1826,2025-05-25,Mobile Banking,Closed
+676,1612,2025-05-27,Atm,Resolved
+466,2736,2025-05-27,Mobile Banking,Closed
+464,1804,2025-05-27,Staff Behavior,Pending
+502,1425,2025-05-28,Mobile Banking,Pending
+437,2564,2025-05-29,Staff Behavior,Unknown
+550,2183,2025-05-30,Mobile Banking,Pending
+606,2059,2025-05-31,Atm,Pending
+326,1739,2025-05-31,Mobile Banking,Unknown
+522,1598,2025-06-02,Staff Behavior,Pending
+798,1037,2025-06-02,Mobile Banking,Pending
+58,1290,2025-06-05,Staff Behavior,Pending
+636,1673,2025-06-06,Atm,Resolved
+739,1355,2025-06-07,Loan,Closed
+372,1803,2025-06-09,Loan,Closed
+797,1085,2025-06-15,Staff Behavior,Pending
+609,2521,2025-06-18,Atm,Closed
+291,2685,2025-06-19,Mobile Banking,Closed
+409,0,2025-06-20,Staff Behavior,Resolved
+250,2031,2025-06-20,Loan,Closed
+543,1736,2025-06-21,Loan,Resolved
+111,0,2025-06-21,Mobile Banking,Resolved
+701,2349,2025-06-22,Unknown,Pending
+268,2353,2025-06-24,Staff Behavior,Closed
+590,2599,2025-06-25,Loan,Pending
+467,2746,2025-06-26,Loan,Resolved
+230,2949,2025-06-26,Mobile Banking,Pending
+575,2363,2025-06-26,Unknown,Resolved
+242,1388,2025-06-27,Loan,Pending
+261,1317,2025-06-29,Staff Behavior,Pending
+209,1127,2025-06-29,Staff Behavior,Pending
+361,2834,2025-06-30,Loan,Closed
+19,0,2025-06-30,Staff Behavior,Resolved
+581,1262,2025-06-30,Mobile Banking,Pending
+639,2111,2025-06-30,Staff Behavior,Pending
+98,1459,2025-07-01,Atm,Pending
+120,2438,2025-07-04,Loan,Pending
+693,1793,2025-07-07,Unknown,Closed
+378,2481,2025-07-08,Loan,Pending
+732,2015,2025-07-08,Unknown,Resolved
+30,2107,2025-07-08,Staff Behavior,Pending
+401,1698,2025-07-10,Mobile Banking,Pending
+566,1294,2025-07-12,Staff Behavior,Closed
+121,2557,2025-07-14,Staff Behavior,Resolved
+3,1766,2025-07-14,Loan,Resolved
+408,2418,2025-07-15,Mobile Banking,Closed
+2,0,2025-07-17,Staff Behavior,Unknown
+784,2324,2025-07-20,Staff Behavior,Resolved
+188,1009,2025-07-21,Unknown,Pending
+207,0,2025-07-22,Atm,Closed
+655,1964,2025-07-24,Mobile Banking,Pending
+131,2520,2025-07-24,Loan,Pending
+728,0,2025-07-24,Staff Behavior,Closed
+412,2875,2025-07-24,Mobile Banking,Pending
+645,2905,2025-07-25,Mobile Banking,Unknown
+419,1584,2025-07-27,Atm,Resolved
+46,1342,2025-07-29,Loan,Closed
+620,2950,2025-07-29,Staff Behavior,Resolved
+97,2861,2025-07-31,Staff Behavior,Resolved
+53,2886,2025-08-06,Staff Behavior,Resolved
+397,2528,2025-08-07,Mobile Banking,Pending
+140,1662,2025-08-09,Atm,Pending
+493,2528,2025-08-12,Mobile Banking,Resolved
+679,2120,2025-08-13,Staff Behavior,Closed
+201,2541,2025-08-17,Mobile Banking,Resolved
+515,2763,2025-08-18,Mobile Banking,Pending
+513,2557,2025-08-18,Mobile Banking,Pending
+102,1258,2025-08-19,Mobile Banking,Pending
+302,1816,2025-08-19,Mobile Banking,Resolved
+146,2421,2025-08-21,Staff Behavior,Resolved
+189,1169,2025-08-22,Loan,Closed
+592,2510,2025-08-25,Mobile Banking,Unknown
+460,2372,2025-08-25,Loan,Resolved
+263,1190,2025-08-25,Mobile Banking,Resolved
+167,2700,2025-08-29,Staff Behavior,Unknown
+156,2095,2025-08-30,Staff Behavior,Unknown
+549,2732,2025-08-31,Staff Behavior,Unknown
+66,2544,2025-08-31,Staff Behavior,Pending
+553,2446,2025-09-02,Staff Behavior,Resolved
+656,2739,2025-09-03,Atm,Closed
+280,2074,2025-09-06,Loan,Pending
+305,2105,2025-09-06,Staff Behavior,Closed
+300,2403,2025-09-09,Unknown,Pending
+591,2391,2025-09-09,Mobile Banking,Resolved
+433,2621,2025-09-10,Staff Behavior,Pending
+332,2156,2025-09-11,Mobile Banking,Closed
+613,1793,2025-09-12,Atm,Unknown
+344,1460,2025-09-13,Staff Behavior,Pending
+771,1695,2025-09-14,Unknown,Pending
+454,1912,2025-09-14,Mobile Banking,Unknown
+306,2484,2025-09-14,Mobile Banking,Pending
+537,2223,2025-09-16,Loan,Resolved
+359,2026,2025-09-17,Atm,Closed
+567,1736,2025-09-18,Loan,Resolved
+777,1205,2025-09-18,Loan,Resolved
+783,1400,2025-09-19,Atm,Closed
+368,1550,2025-09-20,Loan,Pending
+770,2464,2025-09-20,Mobile Banking,Closed
+50,2218,2025-09-21,Staff Behavior,Pending
+244,1182,2025-09-22,Mobile Banking,Pending
+634,1896,2025-09-28,Atm,Pending
+762,1489,2025-09-29,Mobile Banking,Resolved
+136,2906,2025-10-01,Mobile Banking,Closed
+295,2774,2025-10-02,Atm,Closed
+597,2366,2025-10-02,Staff Behavior,Pending
+272,2966,2025-10-02,Mobile Banking,Pending
+718,2465,2025-10-02,Atm,Closed
+312,2244,2025-10-03,Staff Behavior,Resolved
+723,1736,2025-10-05,Mobile Banking,Closed
+474,0,2025-10-06,Unknown,Resolved
+308,1827,2025-10-07,Atm,Resolved
+608,2375,2025-10-07,Mobile Banking,Resolved
+418,1639,2025-10-09,Atm,Closed
+494,2441,2025-10-10,Atm,Pending
+354,1913,2025-10-10,Mobile Banking,Pending
+605,2851,2025-10-11,Mobile Banking,Resolved
+670,2372,2025-10-11,Loan,Unknown
+405,2039,2025-10-12,Mobile Banking,Resolved
+415,1713,2025-10-13,Mobile Banking,Closed
+510,2866,2025-10-15,Atm,Closed
+774,2413,2025-10-16,Mobile Banking,Closed
+745,2013,2025-10-16,Atm,Pending
+414,1746,2025-10-17,Atm,Pending
+289,1451,2025-10-19,Loan,Resolved
+722,1759,2025-10-20,Atm,Closed
+284,1292,2025-10-20,Atm,Resolved
+765,0,2025-10-21,Mobile Banking,Closed
+57,1954,2025-10-24,Staff Behavior,Pending
+560,0,2025-10-25,Mobile Banking,Closed
+358,2848,2025-10-25,Mobile Banking,Resolved
+726,2842,2025-10-25,Staff Behavior,Pending
+16,1616,2025-10-26,Staff Behavior,Pending
+309,1856,2025-10-28,Unknown,Closed
+430,2259,2025-10-28,Staff Behavior,Pending
+422,2419,2025-10-30,Staff Behavior,Pending
+600,2798,2025-11-02,Mobile Banking,Closed
+675,2824,2025-11-02,Loan,Resolved
+700,2456,2025-11-04,Unknown,Resolved
+583,1997,2025-11-04,Mobile Banking,Resolved
+507,1484,2025-11-05,Staff Behavior,Closed
+703,2433,2025-11-06,Staff Behavior,Closed
+759,1557,2025-11-13,Atm,Unknown
+22,1216,2025-11-15,Staff Behavior,Pending
+317,1450,2025-11-15,Unknown,Closed
+789,1284,2025-11-17,Atm,Pending
+685,2666,2025-11-17,Loan,Closed
+677,1482,2025-11-19,Unknown,Closed
+748,0,2025-11-21,Staff Behavior,Pending
+119,2084,2025-11-21,Staff Behavior,Pending
+427,1143,2025-11-22,Staff Behavior,Resolved
+262,2130,2025-11-22,Staff Behavior,Resolved
+536,1772,2025-11-23,Staff Behavior,Closed
+24,2140,2025-11-23,Atm,Pending
+171,1675,2025-11-23,Unknown,Pending
+277,1251,2025-11-25,Atm,Resolved
+800,2579,2025-11-27,Loan,Closed
+477,1678,2025-11-27,Loan,Closed
+311,1217,2025-11-28,Loan,Resolved
+76,2138,2025-11-29,Loan,Resolved
+347,2316,2025-11-29,Mobile Banking,Pending
+168,2405,2025-12-02,Unknown,Resolved
+631,1064,2025-12-02,Staff Behavior,Resolved
+622,1377,2025-12-02,Atm,Pending
+666,2779,2025-12-05,Mobile Banking,Pending
+569,2068,2025-12-07,Staff Behavior,Resolved
+684,0,2025-12-08,Unknown,Closed
+647,2566,2025-12-08,Loan,Resolved
+180,1657,2025-12-09,Staff Behavior,Unknown
+256,1633,2025-12-10,Unknown,Closed
+398,2593,2025-12-10,Staff Behavior,Unknown
+707,1744,2025-12-11,Staff Behavior,Pending
+195,2947,2025-12-12,Unknown,Pending
+227,1396,2025-12-13,Mobile Banking,Pending
+21,1663,2025-12-13,Loan,Resolved
+521,1498,2025-12-13,Atm,Resolved
+755,2503,2025-12-13,Loan,Resolved
+578,1321,2025-12-13,Unknown,Closed
+328,0,2025-12-15,Loan,Closed
+252,2482,2025-12-16,Atm,Pending
+574,2259,2025-12-17,Atm,Unknown
+236,1621,2025-12-20,Loan,Closed
+406,1737,2025-12-21,Staff Behavior,Resolved
+678,2553,2025-12-23,Atm,Resolved
+200,2619,2025-12-24,Mobile Banking,Closed
+555,2790,2025-12-25,Unknown,Pending
+104,2404,2025-12-25,Atm,Pending
+193,1796,2025-12-27,Staff Behavior,Unknown
+410,0,2025-12-28,Unknown,Resolved
+339,2875,2025-12-30,Atm,Resolved

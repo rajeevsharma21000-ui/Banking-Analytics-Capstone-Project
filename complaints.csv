@@ -1,0 +1,837 @@
+complaint_id,customer_id,complaint_date,service_type,resolution_status
+,2796.0,2024-01-01,Mobile Banking,Resolved
+245.0,2926.0,2024-01-02,Staff Behavior,Pending
+330.0,2288.0,2024-01-02,Loan,Pending
+706.0,,2024-01-03,Loan,Pending
+687.0,1320.0,2024-01-03,Mobile Banking,Closed
+749.0,2403.0,,Loan,Closed
+738.0,2753.0,2024-01-07,Loan,Closed
+,1146.0,2024-01-09,Loan,Pending
+599.0,1789.0,,Mobile Banking,Pending
+20.0,1967.0,2024-01-10,Loan,Pending
+106.0,1200.0,2024-01-11,Mobile Banking,
+392.0,1554.0,2024-01-11,Staff Behavior,Pending
+640.0,2033.0,2024-01-12,ATM,Closed
+517.0,1108.0,2024-01-14,ATM,Closed
+582.0,2039.0,,ATM,Closed
+157.0,2541.0,2024-01-15,Loan,Resolved
+316.0,1205.0,2024-01-16,Loan,Resolved
+45.0,2620.0,2024-01-17,Staff Behavior,Closed
+313.0,2973.0,2024-01-18,Staff Behavior,Pending
+428.0,1426.0,2024-01-20,Staff Behavior,Closed
+619.0,1967.0,2024-01-20,,Pending
+778.0,2286.0,2024-01-21,Mobile Banking,Resolved
+481.0,2908.0,2024-01-21,ATM,
+141.0,1920.0,2024-01-21,Staff Behavior,Pending
+696.0,1657.0,2024-01-21,,Resolved
+782.0,1078.0,2024-01-22,ATM,Pending
+,2143.0,2024-01-22,Mobile Banking,Pending
+486.0,1565.0,2024-01-22,Loan,Closed
+7.0,2267.0,2024-01-23,Staff Behavior,Resolved
+325.0,1503.0,2024-01-23,,Resolved
+444.0,1489.0,,,Resolved
+160.0,1425.0,2024-01-24,Staff Behavior,Resolved
+491.0,2561.0,2024-01-24,,Closed
+107.0,2900.0,2024-02-01,ATM,Pending
+285.0,2317.0,2024-02-02,Loan,Pending
+269.0,1573.0,2024-02-03,,Pending
+439.0,2263.0,2024-02-05,ATM,Pending
+424.0,2039.0,2024-02-05,Staff Behavior,Resolved
+607.0,1703.0,,Mobile Banking,Pending
+747.0,2164.0,2024-02-06,Loan,
+577.0,2209.0,2024-02-06,Mobile Banking,Resolved
+788.0,1435.0,2024-02-06,ATM,Closed
+,2202.0,2024-02-07,ATM,Resolved
+756.0,1046.0,2024-02-07,Loan,Closed
+240.0,2076.0,2024-02-08,,Resolved
+,2846.0,2024-02-09,ATM,Closed
+737.0,2106.0,2024-02-10,Staff Behavior,
+629.0,1360.0,2024-02-10,Loan,Closed
+796.0,2377.0,2024-02-12,Mobile Banking,Closed
+69.0,1321.0,2024-02-13,Loan,Resolved
+162.0,1889.0,,Staff Behavior,Resolved
+573.0,2943.0,2024-02-13,Mobile Banking,Resolved
+400.0,,2024-02-13,Staff Behavior,
+243.0,1612.0,2024-02-13,Mobile Banking,Pending
+490.0,2204.0,2024-02-14,Staff Behavior,Resolved
+301.0,2417.0,,Mobile Banking,Resolved
+365.0,1938.0,2024-02-15,ATM,Pending
+81.0,2097.0,2024-02-17,ATM,Pending
+259.0,2962.0,2024-02-19,Loan,Pending
+438.0,2299.0,2024-02-19,ATM,Closed
+487.0,2822.0,2024-02-19,Loan,Closed
+15.0,2512.0,2024-02-19,ATM,Pending
+665.0,,2024-02-20,Loan,Pending
+304.0,2320.0,,Mobile Banking,Pending
+,2804.0,2024-02-23,ATM,Resolved
+479.0,2250.0,2024-02-23,Staff Behavior,Resolved
+70.0,1739.0,,Loan,Resolved
+594.0,1849.0,2024-02-27,Staff Behavior,Closed
+127.0,1951.0,2024-02-28,ATM,Pending
+26.0,1094.0,2024-03-02,Staff Behavior,Pending
+468.0,2205.0,2024-03-03,Mobile Banking,Pending
+754.0,1638.0,2024-03-04,Mobile Banking,Pending
+293.0,2610.0,2024-03-04,Staff Behavior,Resolved
+370.0,,2024-03-05,Mobile Banking,Closed
+610.0,1455.0,2024-03-05,Mobile Banking,Pending
+624.0,2200.0,,Loan,
+202.0,1631.0,2024-03-07,Loan,Pending
+173.0,1781.0,2024-03-07,Loan,Closed
+713.0,2089.0,2024-03-07,Loan,Resolved
+,2195.0,2024-03-07,,Pending
+505.0,1980.0,2024-03-09,Loan,Resolved
+77.0,2812.0,2024-03-09,Mobile Banking,Closed
+386.0,,2024-03-10,Loan,Resolved
+621.0,1881.0,,Staff Behavior,Closed
+,2024.0,,ATM,Closed
+74.0,,2024-03-14,Loan,Closed
+458.0,2265.0,2024-03-15,ATM,Closed
+705.0,1412.0,2024-03-17,Mobile Banking,Resolved
+54.0,2101.0,,ATM,Pending
+556.0,1911.0,2024-03-18,Loan,Pending
+383.0,2052.0,2024-03-20,Mobile Banking,Closed
+194.0,1318.0,2024-03-24,Mobile Banking,Closed
+31.0,1338.0,2024-03-24,Staff Behavior,Pending
+,2482.0,2024-03-26,Mobile Banking,Pending
+62.0,1291.0,,Loan,Pending
+35.0,1117.0,2024-03-29,Mobile Banking,
+164.0,1171.0,2024-03-31,ATM,Pending
+393.0,1866.0,2024-04-01,Staff Behavior,Closed
+548.0,2520.0,,Loan,Pending
+169.0,2151.0,2024-04-02,ATM,Resolved
+623.0,2246.0,2024-04-02,Loan,Pending
+,1644.0,,Mobile Banking,Pending
+750.0,1078.0,2024-04-05,Mobile Banking,Closed
+447.0,1840.0,2024-04-06,Loan,Pending
+,1719.0,2024-04-07,Mobile Banking,Pending
+715.0,2718.0,2024-04-10,ATM,Closed
+407.0,2871.0,,Loan,
+,2517.0,2024-04-10,Loan,Resolved
+192.0,1772.0,2024-04-11,Staff Behavior,Pending
+736.0,1231.0,,,Closed
+540.0,2410.0,2024-04-14,ATM,Pending
+87.0,1075.0,2024-04-14,Staff Behavior,Closed
+17.0,2870.0,2024-04-14,Mobile Banking,Pending
+390.0,1969.0,2024-04-16,Staff Behavior,Resolved
+446.0,2471.0,2024-04-16,Loan,Resolved
+142.0,1408.0,2024-04-17,,Resolved
+296.0,2279.0,2024-04-19,ATM,Pending
+,1809.0,2024-04-19,Mobile Banking,Pending
+153.0,1658.0,2024-04-19,Loan,Closed
+215.0,2348.0,2024-04-21,Loan,Pending
+741.0,2627.0,2024-04-25,ATM,Resolved
+483.0,1701.0,2024-04-25,ATM,Resolved
+348.0,,2024-04-26,ATM,Resolved
+161.0,2941.0,,,Closed
+329.0,1563.0,2024-04-28,Staff Behavior,Resolved
+318.0,1304.0,2024-04-28,Staff Behavior,Resolved
+282.0,1824.0,2024-04-30,Staff Behavior,Pending
+768.0,1566.0,2024-04-30,ATM,
+719.0,1636.0,2024-05-01,Loan,Closed
+563.0,2616.0,2024-05-01,Staff Behavior,
+174.0,2768.0,2024-05-03,ATM,Closed
+139.0,2994.0,2024-05-03,Mobile Banking,Pending
+,1172.0,2024-05-04,Loan,Pending
+255.0,1838.0,2024-05-05,Loan,Closed
+147.0,1306.0,2024-05-05,Loan,Closed
+721.0,2974.0,2024-05-06,Staff Behavior,Resolved
+744.0,2226.0,2024-05-06,Loan,Resolved
+436.0,2462.0,2024-05-13,ATM,Closed
+130.0,1265.0,2024-05-13,Staff Behavior,Closed
+,2118.0,2024-05-14,Mobile Banking,Closed
+41.0,2334.0,2024-05-14,Loan,Closed
+785.0,1537.0,2024-05-14,ATM,Pending
+335.0,2585.0,2024-05-14,Loan,Pending
+357.0,1645.0,2024-05-14,Mobile Banking,Closed
+720.0,2230.0,2024-05-15,Mobile Banking,Pending
+742.0,1566.0,2024-05-17,ATM,
+197.0,1211.0,,Staff Behavior,Closed
+271.0,,2024-05-19,Loan,Pending
+637.0,1513.0,2024-05-19,,Resolved
+688.0,1457.0,2024-05-20,Mobile Banking,Resolved
+214.0,1247.0,2024-05-22,ATM,Closed
+,,2024-05-23,Loan,Pending
+135.0,2836.0,2024-05-24,ATM,Resolved
+730.0,1696.0,2024-05-25,Mobile Banking,Resolved
+492.0,1306.0,2024-05-26,ATM,Pending
+616.0,,2024-05-27,Loan,Pending
+349.0,2547.0,2024-05-28,Loan,Pending
+251.0,2210.0,2024-05-29,ATM,Resolved
+496.0,1114.0,2024-05-29,Staff Behavior,Pending
+384.0,1428.0,2024-05-30,ATM,
+56.0,2269.0,2024-05-31,Staff Behavior,Resolved
+441.0,2400.0,2024-06-01,Loan,Pending
+166.0,2141.0,2024-06-01,Loan,Pending
+350.0,2581.0,2024-06-02,ATM,Closed
+663.0,1156.0,2024-06-02,Staff Behavior,Closed
+511.0,1983.0,2024-06-02,Loan,Resolved
+266.0,1559.0,2024-06-03,Staff Behavior,Closed
+248.0,2168.0,2024-06-05,Loan,
+388.0,,2024-06-07,ATM,Pending
+654.0,1320.0,2024-06-07,ATM,
+151.0,2177.0,2024-06-08,Mobile Banking,Resolved
+525.0,1254.0,2024-06-09,Mobile Banking,Resolved
+122.0,1403.0,2024-06-09,ATM,Pending
+185.0,1319.0,2024-06-10,Mobile Banking,Pending
+125.0,1201.0,2024-06-11,Mobile Banking,Pending
+509.0,1869.0,,ATM,
+457.0,,2024-06-14,ATM,Pending
+73.0,2241.0,2024-06-14,ATM,Pending
+382.0,1836.0,2024-06-14,,Pending
+420.0,2357.0,2024-06-16,Mobile Banking,Pending
+253.0,1931.0,2024-06-17,Staff Behavior,
+661.0,2675.0,2024-06-17,Loan,Closed
+501.0,2892.0,2024-06-21,Loan,Resolved
+416.0,1378.0,,Staff Behavior,Resolved
+526.0,2515.0,2024-06-22,Staff Behavior,Pending
+638.0,2587.0,,Loan,Pending
+612.0,2849.0,2024-06-23,Loan,Closed
+628.0,1009.0,2024-06-23,Staff Behavior,Pending
+554.0,1163.0,,Loan,Resolved
+220.0,1954.0,2024-06-24,Staff Behavior,Resolved
+697.0,2802.0,2024-06-24,Staff Behavior,Closed
+234.0,2077.0,2024-06-25,Staff Behavior,Pending
+59.0,2530.0,2024-06-25,Staff Behavior,Closed
+699.0,1744.0,2024-06-27,ATM,Closed
+758.0,1295.0,2024-06-27,Loan,Resolved
+469.0,2857.0,2024-06-30,,Pending
+503.0,1965.0,2024-07-02,ATM,Closed
+538.0,1020.0,2024-07-02,Staff Behavior,Closed
+184.0,2753.0,2024-07-03,,Closed
+633.0,2024.0,2024-07-04,Loan,Closed
+210.0,1503.0,,ATM,
+710.0,1349.0,2024-07-05,ATM,Closed
+523.0,2417.0,2024-07-07,Mobile Banking,Closed
+528.0,2109.0,2024-07-08,Loan,Pending
+177.0,1193.0,2024-07-09,Staff Behavior,Pending
+,2816.0,2024-07-10,Loan,Closed
+232.0,1162.0,2024-07-13,Staff Behavior,Resolved
+445.0,2621.0,2024-07-15,Mobile Banking,Pending
+772.0,1208.0,2024-07-15,ATM,Resolved
+,2464.0,2024-07-17,,Closed
+211.0,1170.0,2024-07-18,Mobile Banking,Closed
+100.0,1746.0,2024-07-19,Staff Behavior,Pending
+191.0,2124.0,2024-07-21,Mobile Banking,
+669.0,2244.0,2024-07-22,Staff Behavior,Closed
+611.0,1223.0,2024-07-24,Staff Behavior,Closed
+213.0,1563.0,2024-07-24,Loan,Closed
+33.0,2869.0,2024-07-24,Loan,Resolved
+199.0,1878.0,2024-07-25,Mobile Banking,Pending
+,1125.0,2024-07-26,Mobile Banking,Resolved
+727.0,1017.0,2024-07-28,Staff Behavior,Closed
+617.0,1113.0,2024-07-29,,Closed
+229.0,1670.0,2024-07-29,Staff Behavior,Closed
+47.0,1538.0,2024-07-30,Mobile Banking,Pending
+338.0,1478.0,2024-07-30,Loan,Pending
+287.0,1773.0,2024-07-30,Mobile Banking,Resolved
+484.0,2109.0,2024-08-02,Staff Behavior,Pending
+542.0,1856.0,2024-08-03,ATM,Resolved
+299.0,2670.0,2024-08-04,ATM,Resolved
+,2905.0,,Staff Behavior,Pending
+112.0,2114.0,2024-08-05,Loan,Closed
+,1732.0,2024-08-09,Loan,Closed
+,2330.0,2024-08-09,ATM,Closed
+545.0,2669.0,2024-08-09,Loan,Resolved
+429.0,2257.0,2024-08-09,ATM,Closed
+561.0,,2024-08-10,Loan,
+552.0,2480.0,2024-08-10,Mobile Banking,Pending
+320.0,1620.0,2024-08-11,Mobile Banking,Closed
+281.0,1976.0,2024-08-11,Mobile Banking,Resolved
+704.0,2816.0,2024-08-13,Mobile Banking,Pending
+580.0,1270.0,2024-08-14,Mobile Banking,Closed
+504.0,1944.0,2024-08-14,Staff Behavior,Resolved
+1.0,,,Staff Behavior,Closed
+126.0,2329.0,2024-08-15,Mobile Banking,Resolved
+524.0,2945.0,2024-08-15,ATM,Closed
+716.0,,2024-08-15,ATM,Pending
+435.0,1713.0,2024-08-15,Mobile Banking,Pending
+205.0,1691.0,2024-08-15,ATM,Pending
+60.0,2034.0,2024-08-16,Mobile Banking,Pending
+96.0,,2024-08-16,Mobile Banking,
+674.0,,2024-08-17,Loan,Pending
+43.0,,2024-08-17,ATM,Closed
+203.0,1795.0,2024-08-18,Staff Behavior,
+615.0,2768.0,2024-08-19,Staff Behavior,Closed
+89.0,2414.0,2024-08-21,Loan,Closed
+572.0,2748.0,,,Pending
+93.0,2988.0,,ATM,Resolved
+529.0,2020.0,2024-08-23,Loan,Resolved
+627.0,2599.0,2024-08-25,Mobile Banking,Pending
+132.0,2446.0,2024-08-25,Staff Behavior,Pending
+452.0,1438.0,2024-08-25,Mobile Banking,Resolved
+497.0,2261.0,2024-08-25,,Resolved
+14.0,2719.0,2024-08-26,Staff Behavior,Closed
+714.0,1841.0,,Mobile Banking,Pending
+403.0,1610.0,2024-08-27,,Resolved
+564.0,1441.0,2024-08-27,Staff Behavior,Resolved
+95.0,1852.0,2024-08-28,Mobile Banking,Resolved
+233.0,2833.0,2024-08-30,ATM,Pending
+,1791.0,2024-08-30,,Resolved
+514.0,,2024-08-31,Loan,Closed
+568.0,1179.0,,Loan,Closed
+239.0,1772.0,2024-09-03,Staff Behavior,Pending
+643.0,1872.0,2024-09-04,Staff Behavior,Pending
+148.0,2215.0,2024-09-04,Mobile Banking,Pending
+176.0,1216.0,,Staff Behavior,Closed
+101.0,1057.0,2024-09-05,Staff Behavior,Closed
+671.0,1350.0,2024-09-06,ATM,Pending
+28.0,2597.0,2024-09-06,ATM,Closed
+559.0,2586.0,2024-09-06,Mobile Banking,Resolved
+32.0,2438.0,2024-09-08,,Pending
+138.0,2335.0,2024-09-08,Loan,Pending
+286.0,2281.0,2024-09-09,ATM,Resolved
+740.0,2659.0,2024-09-10,Loan,Closed
+596.0,1490.0,,Loan,
+662.0,2945.0,2024-09-11,ATM,Resolved
+,2857.0,2024-09-12,,Pending
+417.0,2714.0,2024-09-12,Mobile Banking,Resolved
+190.0,2430.0,2024-09-13,Loan,Resolved
+387.0,1527.0,2024-09-14,Staff Behavior,Resolved
+380.0,2355.0,2024-09-16,Mobile Banking,Resolved
+341.0,1925.0,,ATM,Closed
+708.0,2702.0,2024-09-20,,Pending
+249.0,2953.0,2024-09-21,ATM,Pending
+694.0,1178.0,2024-09-22,Mobile Banking,Resolved
+246.0,2762.0,2024-09-23,Staff Behavior,Closed
+,2570.0,2024-09-24,Staff Behavior,Closed
+105.0,1052.0,2024-09-24,Mobile Banking,Resolved
+84.0,1595.0,2024-09-24,Loan,Closed
+690.0,1135.0,2024-09-24,Loan,Pending
+288.0,1861.0,2024-09-25,ATM,Resolved
+219.0,2995.0,2024-09-27,,Pending
+369.0,2013.0,2024-09-28,Loan,Resolved
+557.0,1366.0,2024-09-30,Staff Behavior,Resolved
+649.0,2597.0,2024-10-02,ATM,Closed
+276.0,,2024-10-05,,Closed
+27.0,1412.0,,Staff Behavior,Closed
+237.0,1515.0,2024-10-06,Loan,Closed
+473.0,1525.0,2024-10-06,ATM,Closed
+630.0,1861.0,2024-10-07,Loan,Resolved
+,2362.0,2024-10-09,ATM,Closed
+729.0,1338.0,2024-10-09,ATM,
+260.0,,2024-10-09,Staff Behavior,Resolved
+795.0,2575.0,,Loan,Pending
+159.0,1918.0,2024-10-10,Staff Behavior,
+,1276.0,2024-10-11,Mobile Banking,Pending
+461.0,2707.0,2024-10-11,ATM,Pending
+792.0,2424.0,2024-10-12,Loan,Resolved
+475.0,1546.0,,ATM,Resolved
+118.0,1308.0,2024-10-14,Staff Behavior,Closed
+182.0,2598.0,2024-10-16,Mobile Banking,Closed
+618.0,1518.0,2024-10-17,Staff Behavior,Resolved
+498.0,2859.0,2024-10-18,ATM,Resolved
+170.0,1372.0,2024-10-19,Loan,Resolved
+133.0,1640.0,2024-10-19,Mobile Banking,Closed
+775.0,,2024-10-20,Mobile Banking,Closed
+579.0,2534.0,2024-10-21,Staff Behavior,Pending
+314.0,2796.0,2024-10-22,Loan,
+274.0,1063.0,2024-10-25,ATM,Pending
+72.0,1207.0,2024-10-28,Loan,Pending
+183.0,2635.0,2024-10-28,ATM,Resolved
+222.0,2038.0,2024-10-28,ATM,Pending
+377.0,,2024-10-29,Mobile Banking,Pending
+,1537.0,2024-11-02,Loan,Closed
+94.0,2714.0,2024-11-03,Mobile Banking,Pending
+352.0,2213.0,2024-11-05,Staff Behavior,Closed
+588.0,1125.0,2024-11-05,Loan,Pending
+345.0,1579.0,2024-11-06,,Resolved
+463.0,2798.0,2024-11-07,ATM,Pending
+757.0,1419.0,2024-11-09,ATM,Pending
+152.0,1417.0,2024-11-11,Mobile Banking,Pending
+241.0,1789.0,2024-11-11,Staff Behavior,Resolved
+198.0,1130.0,2024-11-12,Mobile Banking,Pending
+247.0,1484.0,2024-11-13,,Pending
+601.0,1888.0,2024-11-14,Mobile Banking,Resolved
+90.0,1074.0,2024-11-14,Staff Behavior,Resolved
+602.0,2120.0,2024-11-15,ATM,
+,2084.0,2024-11-15,Loan,Pending
+290.0,2721.0,2024-11-15,Staff Behavior,Closed
+641.0,,2024-11-17,Loan,
+725.0,2247.0,2024-11-19,,Pending
+689.0,2784.0,2024-11-19,ATM,Closed
+235.0,1874.0,2024-11-23,Staff Behavior,Resolved
+238.0,2025.0,2024-11-23,Mobile Banking,Resolved
+682.0,1004.0,2024-11-25,Staff Behavior,
+451.0,1383.0,2024-11-25,Loan,Pending
+604.0,2557.0,,Mobile Banking,
+499.0,1961.0,2024-11-26,ATM,Pending
+546.0,2996.0,2024-11-26,Mobile Banking,Resolved
+275.0,2522.0,2024-11-28,Loan,Resolved
+512.0,1259.0,2024-11-28,,Closed
+75.0,2057.0,2024-11-29,Loan,Resolved
+625.0,1486.0,2024-11-29,Staff Behavior,Resolved
+780.0,1050.0,2024-11-30,Staff Behavior,
+,2877.0,2024-12-01,Mobile Banking,Pending
+254.0,2603.0,2024-12-03,Staff Behavior,Pending
+44.0,2294.0,2024-12-03,ATM,Closed
+327.0,2116.0,2024-12-04,ATM,Resolved
+353.0,1842.0,2024-12-06,Loan,
+471.0,1533.0,2024-12-09,Mobile Banking,Pending
+11.0,1508.0,2024-12-10,ATM,Pending
+660.0,2238.0,2024-12-11,Staff Behavior,Closed
+659.0,1099.0,2024-12-13,ATM,Closed
+472.0,2962.0,2024-12-13,Loan,Pending
+421.0,1305.0,2024-12-14,Loan,Resolved
+218.0,1649.0,2024-12-15,,Resolved
+145.0,2404.0,2024-12-15,Loan,Pending
+482.0,1852.0,2024-12-17,ATM,Resolved
+187.0,2417.0,2024-12-18,ATM,Resolved
+,2726.0,,Staff Behavior,Closed
+642.0,2427.0,2024-12-19,,Closed
+91.0,2450.0,2024-12-19,Mobile Banking,Pending
+681.0,1167.0,,ATM,
+,2792.0,2024-12-22,Loan,Closed
+488.0,2706.0,2024-12-22,Loan,Pending
+519.0,1101.0,2024-12-23,Loan,Pending
+110.0,,2024-12-27,ATM,
+533.0,2120.0,2024-12-29,Staff Behavior,
+459.0,2676.0,2024-12-29,Staff Behavior,Closed
+769.0,1272.0,,Mobile Banking,Closed
+323.0,2713.0,,Staff Behavior,Resolved
+115.0,1359.0,2025-01-03,ATM,Pending
+292.0,1179.0,2025-01-04,Staff Behavior,Closed
+530.0,2838.0,,Loan,Pending
+442.0,1963.0,2025-01-04,ATM,Resolved
+426.0,2564.0,2025-01-05,Mobile Banking,
+632.0,1665.0,2025-01-05,Loan,Pending
+462.0,2241.0,2025-01-06,Staff Behavior,Pending
+532.0,1052.0,2025-01-06,Loan,Resolved
+534.0,1454.0,2025-01-06,Mobile Banking,Resolved
+495.0,2682.0,2025-01-08,Mobile Banking,Closed
+653.0,2759.0,2025-01-08,Mobile Banking,Closed
+652.0,1213.0,2025-01-09,ATM,
+562.0,1836.0,2025-01-10,Staff Behavior,
+773.0,2079.0,2025-01-10,Staff Behavior,Pending
+117.0,2901.0,2025-01-12,Staff Behavior,Pending
+18.0,1896.0,2025-01-12,ATM,Closed
+175.0,1251.0,2025-01-13,Loan,Closed
+116.0,2390.0,2025-01-13,Staff Behavior,Closed
+680.0,2504.0,2025-01-15,Mobile Banking,Closed
+,1846.0,2025-01-15,ATM,Resolved
+134.0,1946.0,2025-01-16,Staff Behavior,Resolved
+303.0,1568.0,2025-01-17,Mobile Banking,Closed
+793.0,2740.0,2025-01-17,,
+598.0,1693.0,2025-01-18,Loan,Resolved
+40.0,1601.0,2025-01-18,Mobile Banking,Pending
+217.0,1990.0,2025-01-21,Staff Behavior,Pending
+478.0,1896.0,2025-01-23,Mobile Banking,Resolved
+651.0,2493.0,2025-01-24,,Closed
+82.0,,2025-01-24,Mobile Banking,Resolved
+333.0,1940.0,2025-01-25,Mobile Banking,Closed
+270.0,1609.0,2025-01-25,ATM,Closed
+223.0,2199.0,2025-01-26,Staff Behavior,Closed
+450.0,1151.0,2025-01-26,Mobile Banking,Resolved
+109.0,1249.0,,,Closed
+49.0,1331.0,,Staff Behavior,Resolved
+664.0,1464.0,2025-01-28,ATM,Closed
+587.0,1486.0,2025-01-28,Mobile Banking,Closed
+52.0,1393.0,2025-01-29,Loan,Pending
+544.0,2910.0,2025-01-30,Mobile Banking,Pending
+776.0,2937.0,2025-01-30,ATM,
+717.0,2175.0,2025-01-30,Mobile Banking,Pending
+731.0,1904.0,2025-01-31,ATM,Pending
+489.0,,2025-01-31,Staff Behavior,Resolved
+394.0,1399.0,2025-02-01,Loan,Closed
+342.0,2967.0,2025-02-01,ATM,Pending
+108.0,1270.0,2025-02-02,ATM,Resolved
+212.0,2828.0,2025-02-02,Loan,Closed
+336.0,2934.0,2025-02-03,Loan,Closed
+781.0,2118.0,2025-02-04,Mobile Banking,Closed
+163.0,,2025-02-07,Staff Behavior,Pending
+589.0,2168.0,2025-02-07,Loan,Pending
+310.0,2234.0,2025-02-08,ATM,Closed
+196.0,1739.0,2025-02-10,Mobile Banking,Closed
+99.0,2601.0,2025-02-10,Staff Behavior,
+371.0,2314.0,2025-02-12,Staff Behavior,
+763.0,1385.0,2025-02-13,Staff Behavior,Pending
+389.0,2974.0,2025-02-13,ATM,Pending
+144.0,1086.0,2025-02-14,,Closed
+278.0,1667.0,2025-02-15,Staff Behavior,Closed
+29.0,1077.0,2025-02-16,Staff Behavior,Closed
+265.0,1298.0,2025-02-17,Mobile Banking,Closed
+366.0,1383.0,2025-02-17,Staff Behavior,Pending
+92.0,2300.0,2025-02-17,ATM,
+206.0,1453.0,2025-02-18,Loan,Pending
+38.0,1013.0,2025-02-19,Loan,Resolved
+179.0,1897.0,2025-02-20,Loan,Pending
+385.0,1244.0,2025-02-20,ATM,Resolved
+691.0,1546.0,2025-02-23,Staff Behavior,Pending
+172.0,1010.0,2025-02-24,Mobile Banking,Closed
+10.0,2439.0,2025-02-26,ATM,
+396.0,2249.0,2025-02-26,Mobile Banking,Closed
+9.0,1541.0,2025-02-26,Staff Behavior,Closed
+8.0,2424.0,2025-02-27,ATM,Pending
+449.0,1093.0,2025-02-28,Staff Behavior,Closed
+23.0,,2025-03-02,Staff Behavior,Closed
+39.0,2952.0,2025-03-03,ATM,
+6.0,,2025-03-03,Staff Behavior,Pending
+12.0,,2025-03-04,Staff Behavior,Pending
+298.0,1521.0,2025-03-04,Staff Behavior,
+,1316.0,2025-03-05,Loan,Closed
+432.0,1968.0,2025-03-05,Loan,
+34.0,1362.0,2025-03-05,Mobile Banking,Pending
+67.0,2508.0,2025-03-05,Staff Behavior,Resolved
+,1908.0,2025-03-06,ATM,Closed
+360.0,1958.0,2025-03-07,ATM,Pending
+712.0,,2025-03-07,ATM,Pending
+374.0,2779.0,2025-03-07,ATM,Pending
+752.0,1409.0,2025-03-09,Mobile Banking,Closed
+,1106.0,2025-03-10,Mobile Banking,Pending
+51.0,1537.0,,Loan,Pending
+603.0,2718.0,2025-03-13,Mobile Banking,Resolved
+531.0,1896.0,2025-03-13,Mobile Banking,Resolved
+351.0,2701.0,2025-03-13,Staff Behavior,Pending
+508.0,1380.0,2025-03-14,Mobile Banking,Resolved
+565.0,1136.0,2025-03-14,ATM,Closed
+,1950.0,,Staff Behavior,Resolved
+55.0,2129.0,2025-03-15,,Closed
+,2685.0,,Staff Behavior,Resolved
+42.0,2143.0,2025-03-18,Mobile Banking,Closed
+331.0,,2025-03-20,Loan,Closed
+221.0,2072.0,2025-03-20,Mobile Banking,Resolved
+423.0,2098.0,2025-03-23,Mobile Banking,Pending
+375.0,2883.0,2025-03-24,,Pending
+753.0,1502.0,2025-03-24,Loan,Resolved
+155.0,1189.0,2025-03-25,ATM,
+37.0,2949.0,2025-03-26,Mobile Banking,Resolved
+,2510.0,2025-03-26,Mobile Banking,Resolved
+13.0,2881.0,2025-03-26,Mobile Banking,Pending
+165.0,2616.0,2025-03-26,Mobile Banking,Resolved
+672.0,2436.0,2025-03-27,Mobile Banking,Closed
+186.0,1546.0,2025-03-28,Loan,Pending
+150.0,2048.0,2025-03-28,,Closed
+128.0,2586.0,2025-03-28,Loan,Closed
+86.0,1139.0,,Mobile Banking,Pending
+585.0,1015.0,2025-03-29,ATM,Pending
+283.0,2420.0,2025-03-29,Loan,Resolved
+539.0,1947.0,2025-03-29,Mobile Banking,Closed
+307.0,2613.0,2025-03-30,Loan,Pending
+658.0,2693.0,2025-03-30,Staff Behavior,Pending
+709.0,2348.0,2025-03-31,,Pending
+379.0,1847.0,2025-04-02,Staff Behavior,Pending
+692.0,,2025-04-02,Mobile Banking,Closed
+294.0,1638.0,2025-04-05,,Resolved
+399.0,1456.0,2025-04-06,Loan,Resolved
+404.0,1604.0,2025-04-06,ATM,Resolved
+123.0,1680.0,2025-04-06,Staff Behavior,Pending
+334.0,2846.0,,Loan,Resolved
+584.0,2682.0,2025-04-12,,Resolved
+456.0,1526.0,2025-04-13,Loan,Closed
+485.0,2463.0,2025-04-14,Loan,Pending
+178.0,,2025-04-14,Mobile Banking,Closed
+36.0,1425.0,2025-04-15,ATM,Closed
+673.0,2643.0,2025-04-16,ATM,Resolved
+65.0,2583.0,2025-04-16,Mobile Banking,
+63.0,2727.0,,Mobile Banking,Resolved
+362.0,2284.0,2025-04-19,ATM,Closed
+355.0,1826.0,2025-04-19,Staff Behavior,Pending
+376.0,1134.0,2025-04-22,Staff Behavior,Pending
+766.0,2962.0,2025-04-22,Mobile Banking,Resolved
+,1231.0,2025-04-22,Mobile Banking,
+448.0,,2025-04-23,Loan,Resolved
+61.0,1883.0,2025-04-24,Loan,Pending
+576.0,1024.0,2025-04-24,Staff Behavior,Pending
+476.0,1115.0,2025-04-24,Staff Behavior,Pending
+751.0,2823.0,2025-04-24,Mobile Banking,Closed
+764.0,1029.0,2025-04-26,Mobile Banking,Resolved
+743.0,2886.0,2025-04-26,Mobile Banking,Resolved
+,2513.0,2025-04-29,ATM,Pending
+137.0,2295.0,2025-04-30,,Resolved
+411.0,1166.0,2025-05-01,Loan,Pending
+635.0,2879.0,2025-05-01,ATM,Resolved
+181.0,1228.0,2025-05-01,Mobile Banking,Closed
+78.0,1189.0,2025-05-02,Staff Behavior,Closed
+226.0,1069.0,2025-05-04,Staff Behavior,Pending
+337.0,1580.0,2025-05-07,Staff Behavior,Resolved
+791.0,2060.0,2025-05-09,ATM,Pending
+443.0,2589.0,2025-05-09,Staff Behavior,Closed
+786.0,2709.0,2025-05-12,ATM,Pending
+425.0,1709.0,2025-05-12,Loan,Resolved
+85.0,,,Staff Behavior,Pending
+,2180.0,2025-05-13,ATM,Resolved
+648.0,2551.0,2025-05-13,,Closed
+324.0,1582.0,2025-05-14,Staff Behavior,Resolved
+760.0,,2025-05-15,Loan,
+570.0,2547.0,2025-05-15,ATM,Closed
+68.0,1131.0,2025-05-16,ATM,Resolved
+644.0,1450.0,2025-05-16,Staff Behavior,Resolved
+518.0,2135.0,2025-05-17,ATM,Resolved
+527.0,,2025-05-17,ATM,Resolved
+516.0,1343.0,2025-05-18,,Pending
+683.0,1630.0,2025-05-22,Staff Behavior,Resolved
+799.0,1026.0,2025-05-22,Mobile Banking,Closed
+216.0,1530.0,2025-05-23,ATM,Closed
+761.0,1973.0,2025-05-23,Staff Behavior,Resolved
+402.0,2099.0,2025-05-24,,Pending
+413.0,1826.0,2025-05-25,Mobile Banking,Closed
+676.0,1612.0,2025-05-27,ATM,Resolved
+551.0,1952.0,,Staff Behavior,Pending
+466.0,2736.0,2025-05-27,Mobile Banking,Closed
+464.0,1804.0,2025-05-27,Staff Behavior,Pending
+502.0,1425.0,2025-05-28,Mobile Banking,Pending
+437.0,2564.0,2025-05-29,Staff Behavior,
+550.0,2183.0,2025-05-30,Mobile Banking,Pending
+606.0,2059.0,2025-05-31,ATM,Pending
+326.0,1739.0,2025-05-31,Mobile Banking,
+522.0,1598.0,2025-06-02,Staff Behavior,Pending
+798.0,1037.0,2025-06-02,Mobile Banking,Pending
+58.0,1290.0,2025-06-05,Staff Behavior,Pending
+586.0,1427.0,,Loan,Resolved
+636.0,1673.0,2025-06-06,ATM,Resolved
+739.0,1355.0,2025-06-07,Loan,Closed
+,2345.0,,Staff Behavior,Resolved
+372.0,1803.0,2025-06-09,Loan,Closed
+797.0,1085.0,2025-06-15,Staff Behavior,Pending
+609.0,2521.0,2025-06-18,ATM,Closed
+787.0,1468.0,,Staff Behavior,Resolved
+291.0,2685.0,2025-06-19,Mobile Banking,Closed
+409.0,,2025-06-20,Staff Behavior,Resolved
+250.0,2031.0,2025-06-20,Loan,Closed
+258.0,1528.0,,ATM,Closed
+543.0,1736.0,2025-06-21,Loan,Resolved
+111.0,,2025-06-21,Mobile Banking,Resolved
+701.0,2349.0,2025-06-22,,Pending
+268.0,2353.0,2025-06-24,Staff Behavior,Closed
+695.0,1256.0,,Mobile Banking,Resolved
+590.0,2599.0,2025-06-25,Loan,Pending
+467.0,2746.0,2025-06-26,Loan,Resolved
+230.0,2949.0,2025-06-26,Mobile Banking,Pending
+575.0,2363.0,2025-06-26,,Resolved
+242.0,1388.0,2025-06-27,Loan,Pending
+261.0,1317.0,2025-06-29,Staff Behavior,Pending
+209.0,1127.0,2025-06-29,Staff Behavior,Pending
+361.0,2834.0,2025-06-30,Loan,Closed
+19.0,,2025-06-30,Staff Behavior,Resolved
+581.0,1262.0,2025-06-30,Mobile Banking,Pending
+639.0,2111.0,2025-06-30,Staff Behavior,Pending
+98.0,1459.0,2025-07-01,ATM,Pending
+,1995.0,2025-07-02,Loan,
+120.0,2438.0,2025-07-04,Loan,Pending
+693.0,1793.0,2025-07-07,,Closed
+378.0,2481.0,2025-07-08,Loan,Pending
+732.0,2015.0,2025-07-08,,Resolved
+30.0,2107.0,2025-07-08,Staff Behavior,Pending
+401.0,1698.0,2025-07-10,Mobile Banking,Pending
+566.0,1294.0,2025-07-12,Staff Behavior,Closed
+264.0,2632.0,,Staff Behavior,
+121.0,2557.0,2025-07-14,Staff Behavior,Resolved
+3.0,1766.0,2025-07-14,Loan,Resolved
+408.0,2418.0,2025-07-15,Mobile Banking,Closed
+2.0,,2025-07-17,Staff Behavior,
+784.0,2324.0,2025-07-20,Staff Behavior,Resolved
+,2591.0,2025-07-20,Mobile Banking,Closed
+188.0,1009.0,2025-07-21,,Pending
+207.0,,2025-07-22,ATM,Closed
+746.0,2380.0,,ATM,Resolved
+655.0,1964.0,2025-07-24,Mobile Banking,Pending
+131.0,2520.0,2025-07-24,Loan,Pending
+728.0,,2025-07-24,Staff Behavior,Closed
+412.0,2875.0,2025-07-24,Mobile Banking,Pending
+645.0,2905.0,2025-07-25,Mobile Banking,
+419.0,1584.0,2025-07-27,ATM,Resolved
+46.0,1342.0,2025-07-29,Loan,Closed
+620.0,2950.0,2025-07-29,Staff Behavior,Resolved
+97.0,2861.0,2025-07-31,Staff Behavior,Resolved
+53.0,2886.0,2025-08-06,Staff Behavior,Resolved
+397.0,2528.0,2025-08-07,Mobile Banking,Pending
+,,2025-08-07,Staff Behavior,Closed
+140.0,1662.0,2025-08-09,ATM,Pending
+520.0,2275.0,,ATM,Pending
+493.0,2528.0,2025-08-12,Mobile Banking,Resolved
+679.0,2120.0,2025-08-13,Staff Behavior,Closed
+201.0,2541.0,2025-08-17,Mobile Banking,Resolved
+515.0,2763.0,2025-08-18,Mobile Banking,Pending
+513.0,2557.0,2025-08-18,Mobile Banking,Pending
+102.0,1258.0,2025-08-19,Mobile Banking,Pending
+302.0,1816.0,2025-08-19,Mobile Banking,Resolved
+146.0,2421.0,2025-08-21,Staff Behavior,Resolved
+189.0,1169.0,2025-08-22,Loan,Closed
+592.0,2510.0,2025-08-25,Mobile Banking,
+460.0,2372.0,2025-08-25,Loan,Resolved
+263.0,1190.0,2025-08-25,Mobile Banking,Resolved
+167.0,2700.0,2025-08-29,Staff Behavior,
+156.0,2095.0,2025-08-30,Staff Behavior,
+549.0,2732.0,2025-08-31,Staff Behavior,
+66.0,2544.0,2025-08-31,Staff Behavior,Pending
+553.0,2446.0,2025-09-02,Staff Behavior,Resolved
+656.0,2739.0,2025-09-03,ATM,Closed
+346.0,1324.0,,Loan,Pending
+224.0,2580.0,,ATM,Pending
+280.0,2074.0,2025-09-06,Loan,Pending
+305.0,2105.0,2025-09-06,Staff Behavior,Closed
+300.0,2403.0,2025-09-09,,Pending
+591.0,2391.0,2025-09-09,Mobile Banking,Resolved
+433.0,2621.0,2025-09-10,Staff Behavior,Pending
+,2686.0,2025-09-10,Staff Behavior,Closed
+332.0,2156.0,2025-09-11,Mobile Banking,Closed
+613.0,1793.0,2025-09-12,ATM,
+,2903.0,2025-09-13,Staff Behavior,Pending
+344.0,1460.0,2025-09-13,Staff Behavior,Pending
+771.0,1695.0,2025-09-14,,Pending
+454.0,1912.0,2025-09-14,Mobile Banking,
+306.0,2484.0,2025-09-14,Mobile Banking,Pending
+,2592.0,2025-09-15,ATM,Resolved
+537.0,2223.0,2025-09-16,Loan,Resolved
+359.0,2026.0,2025-09-17,ATM,Closed
+567.0,1736.0,2025-09-18,Loan,Resolved
+777.0,1205.0,2025-09-18,Loan,Resolved
+,1110.0,2025-09-18,Loan,Pending
+783.0,1400.0,2025-09-19,ATM,Closed
+368.0,1550.0,2025-09-20,Loan,Pending
+770.0,2464.0,2025-09-20,Mobile Banking,Closed
+50.0,2218.0,2025-09-21,Staff Behavior,Pending
+,2167.0,2025-09-22,ATM,Resolved
+244.0,1182.0,2025-09-22,Mobile Banking,Pending
+724.0,,,Staff Behavior,Resolved
+124.0,1842.0,,ATM,
+,1346.0,2025-09-27,,Pending
+634.0,1896.0,2025-09-28,ATM,Pending
+762.0,1489.0,2025-09-29,Mobile Banking,Resolved
+136.0,2906.0,2025-10-01,Mobile Banking,Closed
+295.0,2774.0,2025-10-02,ATM,Closed
+597.0,2366.0,2025-10-02,Staff Behavior,Pending
+272.0,2966.0,2025-10-02,Mobile Banking,Pending
+718.0,2465.0,2025-10-02,ATM,Closed
+312.0,2244.0,2025-10-03,Staff Behavior,Resolved
+723.0,1736.0,2025-10-05,Mobile Banking,Closed
+474.0,,2025-10-06,,Resolved
+308.0,1827.0,2025-10-07,ATM,Resolved
+608.0,2375.0,2025-10-07,Mobile Banking,Resolved
+626.0,2910.0,,ATM,
+418.0,1639.0,2025-10-09,ATM,Closed
+494.0,2441.0,2025-10-10,ATM,Pending
+354.0,1913.0,2025-10-10,Mobile Banking,Pending
+605.0,2851.0,2025-10-11,Mobile Banking,Resolved
+670.0,2372.0,2025-10-11,Loan,
+405.0,2039.0,2025-10-12,Mobile Banking,Resolved
+415.0,1713.0,2025-10-13,Mobile Banking,Closed
+510.0,2866.0,2025-10-15,ATM,Closed
+774.0,2413.0,2025-10-16,Mobile Banking,Closed
+745.0,2013.0,2025-10-16,ATM,Pending
+434.0,1441.0,,Staff Behavior,Closed
+414.0,1746.0,2025-10-17,ATM,Pending
+289.0,1451.0,2025-10-19,Loan,Resolved
+722.0,1759.0,2025-10-20,ATM,Closed
+284.0,1292.0,2025-10-20,ATM,Resolved
+765.0,,2025-10-21,Mobile Banking,Closed
+57.0,1954.0,2025-10-24,Staff Behavior,Pending
+668.0,1889.0,,,Closed
+560.0,,2025-10-25,Mobile Banking,Closed
+358.0,2848.0,2025-10-25,Mobile Banking,Resolved
+726.0,2842.0,2025-10-25,Staff Behavior,Pending
+16.0,1616.0,2025-10-26,Staff Behavior,Pending
+309.0,1856.0,2025-10-28,,Closed
+430.0,2259.0,2025-10-28,Staff Behavior,Pending
+422.0,2419.0,2025-10-30,Staff Behavior,Pending
+,1402.0,,Staff Behavior,Pending
+600.0,2798.0,2025-11-02,Mobile Banking,Closed
+675.0,2824.0,2025-11-02,Loan,Resolved
+686.0,1510.0,,Mobile Banking,Closed
+453.0,1531.0,,Loan,Pending
+700.0,2456.0,2025-11-04,,Resolved
+583.0,1997.0,2025-11-04,Mobile Banking,Resolved
+507.0,1484.0,2025-11-05,Staff Behavior,Closed
+703.0,2433.0,2025-11-06,Staff Behavior,Closed
+,2998.0,2025-11-08,Mobile Banking,Resolved
+759.0,1557.0,2025-11-13,ATM,
+129.0,1946.0,,Mobile Banking,Pending
+22.0,1216.0,2025-11-15,Staff Behavior,Pending
+317.0,1450.0,2025-11-15,,Closed
+789.0,1284.0,2025-11-17,ATM,Pending
+767.0,1454.0,,Staff Behavior,Closed
+685.0,2666.0,2025-11-17,Loan,Closed
+470.0,1133.0,,Staff Behavior,Resolved
+677.0,1482.0,2025-11-19,,Closed
+103.0,2263.0,,Staff Behavior,Pending
+748.0,,2025-11-21,Staff Behavior,Pending
+119.0,2084.0,2025-11-21,Staff Behavior,Pending
+427.0,1143.0,2025-11-22,Staff Behavior,Resolved
+262.0,2130.0,2025-11-22,Staff Behavior,Resolved
+536.0,1772.0,2025-11-23,Staff Behavior,Closed
+24.0,2140.0,2025-11-23,ATM,Pending
+171.0,1675.0,2025-11-23,,Pending
+,1554.0,2025-11-25,ATM,
+277.0,1251.0,2025-11-25,ATM,Resolved
+231.0,,,Loan,Resolved
+800.0,2579.0,2025-11-27,Loan,Closed
+477.0,1678.0,2025-11-27,Loan,Closed
+311.0,1217.0,2025-11-28,Loan,Resolved
+76.0,2138.0,2025-11-29,Loan,Resolved
+347.0,2316.0,2025-11-29,Mobile Banking,Pending
+168.0,2405.0,2025-12-02,,Resolved
+,1247.0,,Mobile Banking,Closed
+631.0,1064.0,2025-12-02,Staff Behavior,Resolved
+622.0,1377.0,2025-12-02,ATM,Pending
+666.0,2779.0,2025-12-05,Mobile Banking,Pending
+569.0,2068.0,2025-12-07,Staff Behavior,Resolved
+684.0,,2025-12-08,,Closed
+647.0,2566.0,2025-12-08,Loan,Resolved
+180.0,1657.0,2025-12-09,Staff Behavior,
+794.0,1933.0,,ATM,Closed
+779.0,1383.0,,Staff Behavior,Closed
+256.0,1633.0,2025-12-10,,Closed
+398.0,2593.0,2025-12-10,Staff Behavior,
+,2426.0,2025-12-11,ATM,Pending
+707.0,1744.0,2025-12-11,Staff Behavior,Pending
+195.0,2947.0,2025-12-12,,Pending
+227.0,1396.0,2025-12-13,Mobile Banking,Pending
+21.0,1663.0,2025-12-13,Loan,Resolved
+521.0,1498.0,2025-12-13,ATM,Resolved
+755.0,2503.0,2025-12-13,Loan,Resolved
+578.0,1321.0,2025-12-13,,Closed
+,2256.0,2025-12-14,Mobile Banking,Pending
+88.0,2469.0,,Mobile Banking,
+328.0,,2025-12-15,Loan,Closed
+252.0,2482.0,2025-12-16,ATM,Pending
+208.0,1188.0,,ATM,Resolved
+,2834.0,2025-12-17,Mobile Banking,
+574.0,2259.0,2025-12-17,ATM,
+319.0,1283.0,,ATM,Pending
+,,2025-12-19,ATM,Resolved
+236.0,1621.0,2025-12-20,Loan,Closed
+406.0,1737.0,2025-12-21,Staff Behavior,Resolved
+678.0,2553.0,2025-12-23,ATM,Resolved
+200.0,2619.0,2025-12-24,Mobile Banking,Closed
+555.0,2790.0,2025-12-25,,Pending
+104.0,2404.0,2025-12-25,ATM,Pending
+,2635.0,,Staff Behavior,Closed
+193.0,1796.0,2025-12-27,Staff Behavior,
+,2584.0,2025-12-28,Loan,Resolved
+410.0,,2025-12-28,,Resolved
+339.0,2875.0,2025-12-30,ATM,Resolved
+750.0,1078.0,2024-04-05,Mobile Banking,Closed
+212.0,2828.0,2025-02-02,Loan,Closed
+239.0,1772.0,2024-09-03,Staff Behavior,Pending
+407.0,2871.0,,Loan,
+754.0,1638.0,2024-03-04,Mobile Banking,Pending
+494.0,2441.0,2025-10-10,ATM,Pending
+619.0,1967.0,2024-01-20,,Pending
+264.0,2632.0,,Staff Behavior,
+483.0,1701.0,2024-04-25,ATM,Resolved
+12.0,,2025-03-04,Staff Behavior,Pending
+611.0,1223.0,2024-07-24,Staff Behavior,Closed
+377.0,,2024-10-29,Mobile Banking,Pending
+10.0,2439.0,2025-02-26,ATM,
+705.0,1412.0,2024-03-17,Mobile Banking,Resolved
+421.0,1305.0,2024-12-14,Loan,Resolved
+169.0,2151.0,2024-04-02,ATM,Resolved
+,2686.0,2025-09-10,Staff Behavior,Closed
+174.0,2768.0,2024-05-03,ATM,Closed
+591.0,2391.0,2025-09-09,Mobile Banking,Resolved
+,2362.0,2024-10-09,ATM,Closed
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
